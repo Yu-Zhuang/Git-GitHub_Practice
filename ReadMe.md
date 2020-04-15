@@ -35,8 +35,8 @@ this is a pratice about how to use Git and GitHub
 
 ## 放程式碼
 	用縮排 tab
-	或是 ```去包
-```
+	或是 ```去包 (開頭```加程式語言可以highlight文字)
+```javascript
 let hi="hello javascript";
 console.log(hi);
 ```
